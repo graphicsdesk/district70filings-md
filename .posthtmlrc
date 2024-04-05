@@ -7,12 +7,92 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The four candidates <a href=\"https://www.columbiaspectator.com/city-news/2024/03/04/meet-the-four-candidates-running-for-assembly-district-70/\">running</a> for New York State Assembly District 70—Joshua Clennon, Shana Harmongoff, Maria Ordoñez, CC ’23, and Jordan Wright—submitted candidate disclosure reports ahead of the March 15 filing deadline, publicly releasing data on their campaign funding and expenses."
+          },
+          {
+            "type": "text",
+            "value": "As of March 15, Clennon, Harmongoff, Ordoñez, and Wright have raised $11,791.99, $13,685, $37,553.44, and $59,139, respectively, for their campaigns."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "district70-bubble.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The 2024 election cycle marks the pilot of the New York State Public Campaign Finance Program, in which the state matches small donations—between $5 and $250—made by district residents to local political campaigns. To qualify for the program, state assembly candidates must raise at least $6,000 from 75 district residents. As of the March 15 disclosure reports, all candidates have qualified for the program."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "district70-bar.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In a March press release, Wright said that he is grateful for the support his campaign has received."
+          },
+          {
+            "type": "text",
+            "value": "“The outpouring of generosity not only validates the significance of our cause but also signals that Harlem is ready for its next generation of leaders to take their seat at the table,” Wright said in the press release. “I am confident that our support will only grow as we continue to spread a message of unity and real change for Harlem’s residents.”"
+          },
+          {
+            "type": "text",
+            "value": "Wright has received endorsements from several city and state-level politicians, including incumbent Assembly member Inez E. Dickens, State Sen. Cordell Cleare, New York City Council member Yusef Salaam, former Congressman Charles B. Rangel, former Governor David Patterson, and former Comptroller H. Carl McCall. He has also been endorsed by his father, Manhattan Democratic Party Leader Keith L.T. Wright."
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, Harmongoff wrote that she has received an endorsement from the New York City Local 924 Union, with more endorsements to be announced soon."
+          },
+          {
+            "type": "text",
+            "value": "“Our campaign thrives on grassroots support,” Harmongoff wrote. “Our contributors span from single families and college students to small business owners and seniors, with the average donation remaining under $100. We extend our heartfelt gratitude for each and every contribution made to our campaign, and I am genuinely excited about the ongoing impact we will make for Harlem!”"
+          },
+          {
+            "type": "text",
+            "value": "Ordoñez shared her vision for the upcoming months of her campaign in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "“Our campaign is currently focused on being on the ballot for the June Democratic Primary,” Ordoñez wrote. “We look forward to sharing with voters exciting updates about the campaign soon! In the meantime, we will continue to fight for progressive leadership for Harlem to advocate for truly affordable housing, funding for our schools, and healthcare for all.”"
+          },
+          {
+            "type": "text",
+            "value": "Clennon did not respond to a request for comment."
+          },
+          {
+            "type": "text",
+            "value": "Candidates are also currently in the process of petitioning, in which they must collect 1,500 signatures for their names to appear on the ballot. The Democratic primary will be held on June 25."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Claire Cleary can be contacted at </i><a href=\"mailto:claire.cleary@columbiaspectator.com\"><i>claire.cleary@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/clairecleary_\"><i>@clairecleary_</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>.  Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "March campaign disclosure reports show Wright leading District 70 race in fundraising",
+        "dek": "As of March 15, Jordan Wright has raised $59,139.",
+        "date": "April 5, 2024",
+        "byline": "By<a href=\"https://www.columbiaspectator.com/contributors/claire-cleary/\"> </a><a href=\"https://www.columbiaspectator.com/contributors/claire-cleary/\">Claire Cleary</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/molly-durawa/\">Molly Durawa</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/SX3QFJ5O75EZDHFBJOOB4NTGAM.jpg",
+        "cover_caption": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\"> </a><a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">Anna Fedorova</a> / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Plw3WDAh08w89DcbKQJnl9Qug_O-POdEpqNDn9EBdSw/edit?usp=sharing"
       }
     }
   }
